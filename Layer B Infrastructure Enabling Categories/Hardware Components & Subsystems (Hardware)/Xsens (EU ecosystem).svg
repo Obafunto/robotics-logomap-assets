@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 313.63 297.19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8c8c8c;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #e96752;
+      }
+    </style>
+  </defs>
+  <polygon id="Fill-32" class="cls-1" points="258.86 63.11 210.54 63.11 156.81 130.89 171.42 148.55 156.81 166.3 210.54 234.08 258.86 234.08 191.14 148.59 258.86 63.11"/>
+  <polygon id="Fill-37" class="cls-2" points="156.81 130.89 103.09 63.12 54.77 63.12 122.49 148.6 54.77 234.08 103.09 234.08 156.81 166.3 171.42 148.55 156.81 130.89"/>
+</svg>
